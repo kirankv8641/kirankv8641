@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Kiran 👋<br>I’m an aspiring web developer who enjoys building clean, simple, and user-friendly websites. I’m continuously learning new technologies and improving my skills through hands-on projects.Aspiring web developer | Learning, building, and growing one project at a time 
+Hi, I’m Kiran 👋<br>I’m an aspiring web developer who enjoys building clean, simple, and user-friendly websites. I’m continuously learning new technologies and improving my skills through hands-on projects.
+Aspiring web developer | Learning, building, and growing one project at a time 
 
 
 ## 🌐 Socials:
