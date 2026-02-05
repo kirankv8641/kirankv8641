@@ -17,7 +17,7 @@ I’m an aspiring Web Developer passionate about building clean, simple, and use
 ## 💻 Tech Stack
 
 Frontend:
-HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS, WordPress
+HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
 
 Backend & Programming:
 Java, Python, C++, Node.js
