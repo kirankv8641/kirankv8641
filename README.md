@@ -26,16 +26,7 @@ Cloud & Tools:
 Google Cloud, Git, GitHub
 
 
-## 📊 GitHub Stats:
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kirankv8641&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=kirankv8641&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirankv8641&theme=shadow_blue&hide_border=false&layout=compact)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kirankv8641&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
