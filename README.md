@@ -17,13 +17,16 @@ I’m an aspiring Web Developer passionate about building clean, simple, and use
 ## 💻 Tech Stack
 
 Frontend:
-HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
+HTML5, CSS3, JavaScript, React
 
 Backend & Programming:
 Java, Python, C++, Node.js
 
+DataBase:
+MongoDB
+
 Cloud & Tools:
-Google Cloud, Git, GitHub
+Google Cloud, Git, GitHub, Postman
 
 
 
