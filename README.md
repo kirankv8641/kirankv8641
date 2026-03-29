@@ -10,36 +10,31 @@
 🎯 Actively seeking a Software Developer position  
 
 
----
 
-## 💻 Tech Stack
+## 🛠️ Skills & Tools
 
+ 💻 Frontend: React.js, HTML, CSS, JavaScript
+  
+ ⚙️ Backend: Node.js, Express.js
+  
+ 🗄️ Database: MongoDB
+  
+ 🛠️ Tools: Git, GitHub, Postman, VS Code
+  
+ 🌐 Deployment: Vercel, Render  
 
-💡 Languages:-
-JavaScript (ES6+)
-HTML5
-CSS3
-
- ⚙️ Frontend:-
-React.js
-BootStrap / CSS
-
-🔧 Backend:-
-Node.js
-Express.js
-
-🗄️ Database:-
-MongoDB
-
----
 
 ## 📫 Connect With Me
 
 GitHub: https://github.com/kirankv8641
 
-LinkedIn: (Add your link here)
+LinkedIn: 
 
----
+
+## 🎯 Career Objective
+
+To secure a Software Developer role where I can apply my MERN stack skills, 
+build scalable applications, and continuously grow as a developer.
 
 ## ⚡ Fun Fact
 
