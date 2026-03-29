@@ -26,9 +26,11 @@
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/kirankv8641
+Email: kv878432@gmail.com
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/kiran-vishwakarma98
+
+GitHub: https://github.com/kirankv8641
 
 
 ## 🎯 Career Objective
